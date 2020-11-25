@@ -19,8 +19,9 @@ Image colorization is an essential image processing and computer vision branch t
 An overview of the existing single-image colorization techniques are present below 
 
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
 </p>
+
 Taxonomy of colorization networks where classification of the colorization networks are based on structure, input, domain, and type of network. The details of each network used for single-image colorization using deep networks are reported in detail in our [paper](https://arxiv.org/pdf/2008.10774.pdf).
 
 ## Datasets
@@ -32,12 +33,12 @@ Representative test images from six super-resolution datasets used for comparing
 ## Results
 ### Quantitative Results
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
 </p>
 ### Visual Results
 
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
 </p>
 
 ## Citation
