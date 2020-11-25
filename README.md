@@ -56,13 +56,15 @@ Visual comparison of colorization algorithms on different fruit images from the 
 <p align="center">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit1.png">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit2.png">
+  <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/refs.png">
 </p>
-Original Grayscale  Automatic Colorizer ColorCapsNet  Let there be Color Colorful Colorization Instance-Aware Colorization Real-Time Colorization
+
 
 Qualitative comparison on a few sample images of vegetables from Natural-Color Dataset. Most of the algorithms fail to reproduce the original colors.
 <p align="center">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables1.png">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables2.png">
+  <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/refs.png">
 </p>
 
 ## Citation
