@@ -19,7 +19,7 @@ Image colorization is an essential image processing and computer vision branch t
 An overview of the existing single-image colorization techniques are present below 
 
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
 </p>
 
 Taxonomy of colorization networks where classification of the colorization networks are based on structure, input, domain, and type of network. The details of each network used for single-image colorization using deep networks are reported in detail in our [paper](https://arxiv.org/pdf/2008.10774.pdf).
@@ -27,18 +27,26 @@ Taxonomy of colorization networks where classification of the colorization netwo
 ## Datasets
 We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Set5, Set14, BSD100, Urban100, DIV2K and
 Manga109.
-![Images](/Figs/RepresentativeImages.PNG)
+<p align="center">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_samples.png">
+</p>
 Representative test images from six super-resolution datasets used for comparing and evaluating algorithms
 
 ## Results
 ### Quantitative Results
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_table.png">
 </p>
 ### Visual Results
 
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/Taxonomy.PNG">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit1.png">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit2.png">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables1.png">
+  <img width="500" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables2.png">
 </p>
 
 ## Citation
