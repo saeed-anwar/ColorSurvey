@@ -3,6 +3,7 @@ This repository is for colorization survey introduced in the following paper
 
 [Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar, "Image Colorization: A Survey and Dataset", [arXiv](https://arxiv.org/pdf/2008.10774.pdf), 2020
 
+---
 
 ## Contents
 1. [Introduction](#introduction)
@@ -15,6 +16,8 @@ This repository is for colorization survey introduced in the following paper
 ## Introduction
 Image colorization is an essential image processing and computer vision branch to colorize images and videos.  Recently, deep learning techniques progressed notably for image colorization. This article presents a comprehensive survey of recent state-of-the-art colorization using deep learning algorithms, describing their fundamental block architectures in terms of skip connections, input etc. as well as optimizers, loss functions, training protocols, and training data etc. Generally, we can roughly categorize the existing colorization techniques into seven classes. Besides, we also provide some additional essential issues, such as benchmark datasets and evaluation metrics.  We also introduce a new dataset specific to colorization and perform an experimental evaluation of the publicly available methods. In the last section, we discuss the limitations, possible solutions, and future research directions of the rapidly evolving topic of deep image colorization that the community should further address.
 
+---
+
 ## Overview
 An overview of the existing single-image colorization techniques are present below 
 
@@ -24,28 +27,39 @@ An overview of the existing single-image colorization techniques are present bel
 
 Taxonomy of colorization networks where classification of the colorization networks are based on structure, input, domain, and type of network. The details of each network used for single-image colorization using deep networks are reported in detail in our [paper](https://arxiv.org/pdf/2008.10774.pdf).
 
+---
+
 ## Datasets
-We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Set5, Set14, BSD100, Urban100, DIV2K and
-Manga109.
+We aim to remove this unrealistic setting for image colorization by collecting images that are true to their colors. For example, a carrot will have an orange
+color in most images. Bananas will be either greenish or yellowish. We have collected 723 images from the internet distributed in 20 categories. Each image has an object and
+a white background. We name our dataset as Natural-Color Dataset (NCD). The following figures shows representative test images for each category from our proposed Natural-Color dataset (NCD).
+
 <p align="center">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_samples.png">
 </p>
-Representative test images from six super-resolution datasets used for comparing and evaluating algorithms
 
+**Our NCD dataset can be downloaded from [here]()**
+---
 ## Results
 
 ### Quantitative Results
+
+Comparisons of the state-of-the-art methods for the colorization in terms of PSNR, SSIM, PCQI, and IQM on our Natural-Color Dataset. The higher value of the metrics indicates better performance.
+
 <p align="center">
-  <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_table.png">
+  <img width="1000" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_table.png">
 </p>
 
 ### Visual Results
+Visual comparison of colorization algorithms on different fruit images from the Natural-Color Dataset. State-of-the-art colorization algorithms are unable to colorize the images effectively.
 
 <p align="center">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit1.png">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_fruit2.png">
 </p>
 
+
+Qualitative comparison on a few sample images of vegetables from Natural-Color Dataset. Most of the algorithms fail to reproduce the original colors.
 <p align="center">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables1.png">
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_results_vegetables2.png">
