@@ -8,7 +8,7 @@ This repository is for colorization survey introduced in the following paper
 ## Contents
 1. [Introduction](#introduction)
 2. [Overview](#overview)
-3. [Datasets](#datasets)
+3. [Dataset](#dataset)
 4. [Results](#results)
 5. [Citation](#citation)
 6. [Acknowledgements](#acknowledgements)
@@ -29,7 +29,7 @@ Taxonomy of colorization networks where classification of the colorization netwo
 
 ---
 
-## Datasets
+## Dataset
 We aim to remove this unrealistic setting for image colorization by collecting images that are true to their colors. For example, a carrot will have an orange
 color in most images. Bananas will be either greenish or yellowish. We have collected 723 images from the internet distributed in 20 categories. Each image has an object and
 a white background. We name our dataset as Natural-Color Dataset (NCD). The following figures shows representative test images for each category from our proposed Natural-Color dataset (NCD).
