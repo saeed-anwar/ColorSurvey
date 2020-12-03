@@ -42,12 +42,18 @@ a white background. We name our dataset as Natural-Color Dataset (NCD). The foll
 ***Our NCD dataset [Color Groundtruth](https://drive.google.com/file/d/1k_UvYzdrHbphW4UcbDb9jWB0ZQIAGEAo/view?usp=sharing)***
 ---
 ** State-of-the-art method results**
-*** [AutomaticColorizer](https://drive.google.com/file/d/1DUG3syZ9xceMe3baBBOAEeldE26zCq7R/view?usp=sharing)***
-*** [ColorCapsNet](https://drive.google.com/file/d/10E47p5jIjiP5_Iab2GJkCWk6OBhkrTKD/view?usp=sharing)***
-*** [ColofulColorization](https://drive.google.com/file/d/15dXx8UBVMa9SwFXqkljha6eChrMA6m6q/view?usp=sharing)***
-*** [InstanceAwareColorization](https://drive.google.com/file/d/1BbddVt6UAuRR3-Fgoy8JvOpPyrCAVzRA/view?usp=sharing)***
-*** [LetBeColor](https://drive.google.com/file/d/1DcU1ub-wiQf4yNHa_E3rrk9swT4cKaKY/view?usp=sharing)***
-*** [RealTimeUserGuided](https://drive.google.com/file/d/1ORPxVU9DhevOCWpK0UfpBFCDPc2NSuz8/view?usp=sharing)***
+
+***[AutomaticColorizer](https://drive.google.com/file/d/1DUG3syZ9xceMe3baBBOAEeldE26zCq7R/view?usp=sharing)***
+
+***[ColorCapsNet](https://drive.google.com/file/d/10E47p5jIjiP5_Iab2GJkCWk6OBhkrTKD/view?usp=sharing)***
+
+***[ColofulColorization](https://drive.google.com/file/d/15dXx8UBVMa9SwFXqkljha6eChrMA6m6q/view?usp=sharing)***
+
+***[InstanceAwareColorization](https://drive.google.com/file/d/1BbddVt6UAuRR3-Fgoy8JvOpPyrCAVzRA/view?usp=sharing)***
+
+***[LetBeColor](https://drive.google.com/file/d/1DcU1ub-wiQf4yNHa_E3rrk9swT4cKaKY/view?usp=sharing)***
+
+***[RealTimeUserGuided](https://drive.google.com/file/d/1ORPxVU9DhevOCWpK0UfpBFCDPc2NSuz8/view?usp=sharing)***
 
 ---
 ## Results
