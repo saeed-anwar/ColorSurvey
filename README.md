@@ -38,9 +38,7 @@ a white background. We name our dataset as Natural-Color Dataset (NCD). The foll
   <img width="800" src="https://github.com/saeed-anwar/ColorSurvey/blob/master/Figs/NCD_samples.png">
 </p>
 
-***Our NCD dataset [GrayScale](https://drive.google.com/file/d/1GpmEVNFn12bK0EoXK46FP3cXFUosomaG/view?usp=sharing)***
-
-***Our NCD dataset [Color-Groundtruth](https://drive.google.com/file/d/1k_UvYzdrHbphW4UcbDb9jWB0ZQIAGEAo/view?usp=sharing)***
+***Our NCD dataset [GrayScale](https://drive.google.com/file/d/1GpmEVNFn12bK0EoXK46FP3cXFUosomaG/view?usp=sharing) and [Color-Groundtruth](https://drive.google.com/file/d/1k_UvYzdrHbphW4UcbDb9jWB0ZQIAGEAo/view?usp=sharing)***
 ---
 **State-of-the-art method results**
 
