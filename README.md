@@ -40,7 +40,7 @@ a white background. We name our dataset as Natural-Color Dataset (NCD). The foll
 
 ***Our NCD dataset [GrayScale](https://drive.google.com/file/d/1GpmEVNFn12bK0EoXK46FP3cXFUosomaG/view?usp=sharing) & [Color-Groundtruth](https://drive.google.com/file/d/1k_UvYzdrHbphW4UcbDb9jWB0ZQIAGEAo/view?usp=sharing)***
 ---
-**State-of-the-art method results**
+**State-of-the-art method results on Our NCD Dataset**
 
 ***[AutomaticColorizer](https://drive.google.com/file/d/1DUG3syZ9xceMe3baBBOAEeldE26zCq7R/view?usp=sharing)***
 
