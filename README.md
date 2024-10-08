@@ -1,7 +1,7 @@
 # Image Colorization: A Survey and Dataset
 This repository is for colorization survey introduced in the following paper
 
-[Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar, "Image Colorization: A Survey and Dataset", [arXiv](https://arxiv.org/pdf/2008.10774.pdf), 2020
+[Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar, "Image Colorization: A Survey and Dataset", information fusion,2024. [arXiv](https://arxiv.org/pdf/2008.10774.pdf)
 
 ---
 
@@ -85,11 +85,12 @@ Qualitative comparison on a few sample images of vegetables from Natural-Color D
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@article{anwar2020ColorSurvey,
+@article{anwar2024ColorSurvey,
   title={Image Colorization: A Survey and Dataset},
   author={Anwar, Saeed and Tahir, Muhammad and Li, Chongyi and Mian, Ajmal and Khan, Fahad Shahbaz and Muzaffar, Abdul Wahab},
-  journal={arXiv preprint arXiv:2008.10774},
-  year={2020}
+  journal={Information Fusion},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 ## Acknowledgements
