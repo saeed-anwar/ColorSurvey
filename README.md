@@ -1,7 +1,7 @@
 # Image Colorization: A Survey and Dataset
 This repository is for colorization survey introduced in the following paper
 
-[Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar, "Image Colorization: A Survey and Dataset", information fusion,2024. [arXiv](https://arxiv.org/pdf/2008.10774.pdf)
+[Saeed Anwar](https://saeed-anwar.github.io/), Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, Abdul Wahab Muzaffar, "[Image Colorization: A Survey and Dataset](https://arxiv.org/pdf/2008.10774.pdf)", information fusion,2024.
 
 ---
 
